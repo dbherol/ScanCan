@@ -18,12 +18,13 @@ Checklist that guides students on what assignments to work on, prepare for, and 
 
 ## Getting Started: 
 
+### Installation
 ```Download the project from source
  git clone https://github.com/dbherol/ScanCan.git
  Navigate into directory and execute ./setup 
  ```
   
-## Using ScanCan (Quickstart):
+### Using ScanCan (Quickstart):
  
  ```
 "scancan list" to list all possible modules
