@@ -1,7 +1,7 @@
 # ScanCan
 
 ## Introduction
-ScanCan is a command-line based, scalable framework designed to help students efficiently bridge and automate interactions between the Canvas web application and students' personal computers. The ScanCan framework provides a selection of modules that automatically organize and optomize academic resources so students can completely focus on the content of their courses.
+ScanCan is a python-scripted, command-line based, scalable framework designed to help students efficiently bridge and automate interactions between the Canvas web application and students' personal computers. The ScanCan framework provides a selection of modules that automatically organize and optomize academic resources so students can completely focus on the content of their courses.
 
 ## Example Modules:
 #### Download_Files
