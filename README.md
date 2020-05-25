@@ -25,8 +25,11 @@ Getting Started:
  Navigate into directory and execute ./setup 
  ```
   
- Using ScanCan:
+ Using ScanCan (Quickstart):
  
  ```
- 
+"scancan list" to list all possible modules
+"scancan -u <username> -p <password> use <module name> <flags>" to use module with options
+"scancan <module> --help" for complete usage of module
+"man scancan" for complete usage of framework
  ```
