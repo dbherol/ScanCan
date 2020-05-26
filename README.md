@@ -27,9 +27,13 @@ ScanCan is a python-scripted, command-line based, scalable framework designed to
 ## Getting Started: 
 
 ### Installation
-```Download the project from source
+```
+ To clone:
  git clone https://github.com/dbherol/ScanCan.git
- Navigate into directory and execute ./setup 
+ 
+ To setup:
+ cd scancan
+ ./setup 
  ```
   
 ### Using ScanCan (Quickstart):
