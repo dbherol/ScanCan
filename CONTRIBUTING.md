@@ -16,7 +16,7 @@ Thank you for exploring our project and supporting our dream.
 Find a bug? We would love to squish it for you. Please submit your bug report as an issue and follow the template provided on this Github page: https://gist.github.com/carlo/3402842
 
 ## Suggest a new feature
-We love to hear from our users on how to improve! Please send an email with your suggestion(s) to danielbherold@gmail.com and we'll go from there :)
+We love to hear from our users on how to improve! Please send an email with your suggestion(s) and we'll go from there. :)
 
 ## Setting up an environment and running tests
 Although this project is still in the making, and these details are still being worked out, we would like to eventually  provide our supporters with a requirements.txt file and a recommended python environment setup. 
@@ -25,7 +25,7 @@ Although this project is still in the making, and these details are still being 
 Please feel free to provide documentation, or contribute to other's documentation! As of right now, we would like all of our documentation to be written in markdown files.
 
 ## FAQ
-Nothing here yet, but please feel free to send any questions to danielbherold@gmail.com.
+Nothing here yet, but please feel free to send any questions to my email.
 
 ## Get in touch
 Please feel free to raise an issue or contact me at danielbherold@gmail.com for any and all questions/comments.
