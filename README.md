@@ -55,7 +55,7 @@ For complete usage of framework:
 This project is still under construction and net yet prepared for an official release.
 
 ## Contributions:
-Both the framework and modules are open to contributions. Please contact me and I will put you in touch with the owner(s) of the module.
+Both the framework and modules are open to contributions. Please contact me and I will put you in touch with the respective moderator of the module or section of framework.
 
 ## Inquiry:
 Please do not hesitate to raise an issue or contact me with any questions or comments. My email address is danielbherold@gmail.com.
